@@ -1,3 +1,4 @@
+
 ## CISA CSAF Repository
 The purpose of this repository is to provide machine-readable security advisories using the [OASIS Common Security Advisory Framework (CSAF) Version 2.0 standard](https://docs.oasis-open.org/csaf/csaf/v2.0/os/csaf-v2.0-os.html) for CISA's Information Technology (IT) and Operational Technology (OT) advisories. By providing machine-readable advisories using CSAF v2.0, vendors and providers of software and hardware can join [CISA and many other leading organizations](https://www.oasis-open.org/committees/membership.php?wg_abbrev=csaf) in taking [proactive steps to enable automation and help to reduce the time required for enterprises to understand organizational impact and drive timely remediation](https://www.cisa.gov/news-events/news/transforming-vulnerability-management-landscape).
 
